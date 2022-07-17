@@ -12,9 +12,15 @@ YouTube-
 websites-
 
 -Basics of Blockchain https://courses.blockgeeks.com/course/introduction-to-blockchain-and-cryptocurrency/
+
 -Complete free web3 developer course https://eattheblocks.com/
+
 -CryptoZombies(Learn while building a game project) https://cryptozombies.io/
+
 -Ethernaut https://ethernaut.openzeppelin.com/
+
 -Resource provided by Matic itself to get you started into developmenthttps://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy
+
 -Get to work on web3 projects https://learn.figment.io/
+
 -(LearnWeb3DAO)Proper blockchain developer course from zero to advance https://www.learnweb3.io/
